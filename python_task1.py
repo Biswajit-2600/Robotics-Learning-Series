@@ -42,4 +42,4 @@ def result(ch):
         ch = int(input("You have finished the game. Do you want to play again?\n1 - Yes\n0 - No\n"))
 
 
-result(ch = int(input("Do you want to play the MASTERMIND GAME?\n1 - Yes\n0 - No\n")))
+result(int(input("Do you want to play the MASTERMIND GAME?\n1 - Yes\n0 - No\n")))
